@@ -14,6 +14,7 @@ export interface ProductDetails {
   tagline: string;
   description: string;
   imagePath: string;
+  galleryImagePaths?: string[];
   layers?: number;
   availableColors: string[];
   features: string[];

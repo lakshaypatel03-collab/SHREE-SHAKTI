@@ -87,7 +87,7 @@ export default function Hero({}: HeroProps) {
                 <ImageWithFallback
                   id="primary-hero-tank-collage"
                   productId="2-layer-vertical"
-                  src="/input_file_1.png"
+                  src="/images/shivneri-3-layer-tanks.png"
                   alt="Shivneri Water Tanks (Orange, Blue, Black 2-Layer Series)"
                   className="object-contain max-h-[280px] w-auto transition-transform duration-700 hover:rotate-1"
                 />
