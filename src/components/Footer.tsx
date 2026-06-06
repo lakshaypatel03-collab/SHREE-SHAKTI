@@ -21,7 +21,7 @@ export default function Footer({ onNavigate }: FooterProps) {
               <ImageWithFallback
                 id="footer-brand-logo"
                 productId="logo"
-                src="/images/shree-shakti-logo.jpeg"
+                src="/input_file_0.png"
                 alt="Shree Shakti Corporate Seal"
                 className="object-contain"
                 fallbackType="logo"

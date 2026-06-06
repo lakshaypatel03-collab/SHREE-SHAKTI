@@ -112,25 +112,6 @@ export default function ProductsSection() {
                       </span>
                     )}
                   </div>
-
-                  {product.galleryImagePaths && product.galleryImagePaths.length > 0 && (
-                    <div className="grid grid-cols-1 gap-3">
-                      {product.galleryImagePaths.map((imagePath, imageIndex) => (
-                        <div
-                          key={imagePath}
-                          className="bg-white p-4 rounded-2xl border border-gray-100/80 shadow-inner flex items-center justify-center min-h-[180px]"
-                        >
-                          <ImageWithFallback
-                            id={`img-product-${product.id}-gallery-${imageIndex}`}
-                            productId={product.id}
-                            src={imagePath}
-                            alt={`${product.name} variant ${imageIndex + 1}`}
-                            className="object-contain max-h-[170px] w-auto transition-transform duration-500 hover:scale-105"
-                          />
-                        </div>
-                      ))}
-                    </div>
-                  )}
                   
                   {/* Swatches Color Circle selection indicator */}
                   <div>

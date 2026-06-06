@@ -20,7 +20,7 @@ export const PRODUCTS_DATA: ProductDetails[] = [
     name: "Shivneri 2-Layer Vertical Tank",
     tagline: "Eco-Friendly, Double Layered Protective Water Storage",
     description: "Our dual-layer design provides a high-density, weatherproof exterior that resists sunlight damage, coupled with an ultra-smooth, food-grade inner black surface that prevents contamination and is easy to clean. Perfect for domestic, commercial, and drip-irrigation storage.",
-    imagePath: "/images/shivneri-2-layer-black-tank.png",
+    imagePath: "/input_file_8.png",
     layers: 2,
     availableColors: ["Black"],
     features: [
@@ -58,7 +58,7 @@ export const PRODUCTS_DATA: ProductDetails[] = [
     name: "Shivneri 3-Layer Thermal-Insulation Tank",
     tagline: "Triple Layer Active Thermal Barrier System",
     description: "Designed to tackle severe climatic shifts. Employs a unique cellular micro-foam inner middle shielding layer that restricts solar heat ingress, keeping the reserve water cool and stable throughout peak daylight. Includes full UV block core.",
-    imagePath: "/images/shivneri-3-layer-tanks.png",
+    imagePath: "/input_file_9.png",
     layers: 3,
     availableColors: ["Blue", "Yellow", "Green", "Orange", "White"],
     features: [
@@ -96,7 +96,7 @@ export const PRODUCTS_DATA: ProductDetails[] = [
     name: "Shivneri 4-Layer Extra Coool Premium Tank",
     tagline: "Ultimate 4-Layer Sanitation & Cool-Water Technology",
     description: "Our absolute flagship product. Incorporates quadruple barrier shield technology featuring active antimicrobial resistance, algae blockage, premium thermal foam insulation, and custom weather-resistant color layer. The ultimate assurance for zero pollution.",
-    imagePath: "/images/shivneri-4-layer-extra-cool-tank.png",
+    imagePath: "/input_file_1.png",
     layers: 4,
     availableColors: ["Blue", "Green", "Marble Sky", "Yellow", "White", "Warm Sand (Beige)"],
     features: [
@@ -136,8 +136,7 @@ export const PRODUCTS_DATA: ProductDetails[] = [
     name: "Shivneri Loft / Horizontal Tank",
     tagline: "Compact Indoor Space Saving Solutions",
     description: "Engineered specifically for indoor installation under low ceilings, bathroom lofts, or inside decorative wooden panels. Provides reliable horizontal water reserve safely out of direct climatic degradation. Note: Measurements are approximate and no guarantee is applicable for indoor lofts.",
-    imagePath: "/images/shivneri-blue-loft-tank.png",
-    galleryImagePaths: ["/images/loft-tank-red-white.png"],
+    imagePath: "/input_file_4.png",
     availableColors: ["Natural White"],
     features: [
       "Low vertical clearance, fits perfectly flat inside interior lofts",
@@ -168,7 +167,7 @@ export const PRODUCTS_DATA: ProductDetails[] = [
     name: "Shivneri Heavy-Duty Industrial Drums",
     tagline: "Ultra-Resilient Liquid & Chemical Containment",
     description: "Heavy-gauge, high molecular weight HDPE blow/rotomolded open & narrow mouth barrels. Fully optimized for chemical storage, liquid ingredients, water storage, lubricants, and high-density industrial mixtures.",
-    imagePath: "/images/industrial-blue-barrels.png",
+    imagePath: "/input_file_2.png",
     availableColors: ["Industrial Blue", "Orange"],
     features: [
       "High chemical compatibility with absolute zero rust development",
@@ -195,7 +194,7 @@ export const PRODUCTS_DATA: ProductDetails[] = [
     name: "Premium Multi-Layered Reinforced Tarpaulins",
     tagline: "Zero-Leak Ultimate Weather Shelter Fabrics",
     description: "Engineered from superior virgin polymers and cross-laminated layout to resist extreme storms, sun heat, and heavy rain. Trusted across industrial logistics and farm operations to secure machinery, crops, and construction sites.",
-    imagePath: "/images/reinforced-plastic-tarpaulins.png",
+    imagePath: "/input_file_5.png",
     availableColors: ["Blue", "Yellow", "Silver Grey", "Orange", "Coal Black"],
     features: [
       "100% Water Protection, absolutely zero rain leakage",
@@ -222,7 +221,7 @@ export const PRODUCTS_DATA: ProductDetails[] = [
     name: "Shivneri High-Durability PP Ropes",
     tagline: "High-Tensile Golden-Border Polypropylene Rigging Ropes",
     description: "Premium-grade yellow polypropylene (PP) ropes coiled utilizing advanced high-twist extrusion systems. Engineered for farm harvesting, industrial cargos strapping, construction line hoisting, and heavy-duty tarpaulin securement. Delivers supreme chemical tolerance and zero rot.",
-    imagePath: "/images/pp-rope-coils.png",
+    imagePath: "/input_file_3.png",
     availableColors: ["Yellow (Gold Stripe)"],
     features: [
       "100% High-density virgin Co-Polymer Polypropylene core",
@@ -253,8 +252,7 @@ export const PRODUCTS_DATA: ProductDetails[] = [
     name: "Green Agro Shade Nets",
     tagline: "High-Density Climate Control & Plant Protection Shielding",
     description: "Precision knitted high-density polyethylene (HDPE) tape nets featuring double-reinforced gold/yellow taped selvages. Formulated to filter sunlight, trap essential humidity, and act as a reliable visual barrier against pests, heavy downpours, and direct heatwaves.",
-    imagePath: "/images/green-shade-net.png",
-    galleryImagePaths: ["/images/striped-shade-net.png"],
+    imagePath: "/input_file_6.png",
     availableColors: ["Green (Premium Yellow Border)", "Green/Pink Striped Style"],
     features: [
       "Lock-stitch knitted HDPE prevents ravelling and fraying",

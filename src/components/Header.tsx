@@ -69,7 +69,7 @@ export default function Header({ onNavigate, activeSection }: HeaderProps) {
             <ImageWithFallback
               id="header-brand-logo-img"
               productId="logo"
-              src="/images/shree-shakti-logo.jpeg"
+              src="/input_file_0.png"
               alt="Shree Shakti Logo"
               className="object-contain max-h-full max-w-full"
               fallbackType="logo"
