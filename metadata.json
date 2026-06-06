@@ -1,0 +1,6 @@
+{
+  "name": "Shree Shakti",
+  "description": "Professional showcase website for Shree Shakti Cement Products, manufacturers of Shivneri brand premium water storage tanks, lofts, barrels, and plastic tarpaulins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
